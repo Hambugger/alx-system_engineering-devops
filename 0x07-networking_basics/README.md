@@ -8,6 +8,7 @@ How is the OSI model organized?
 Alphabetically
 From the lowest to the highest level
 Randomly
+<<<<<<< HEAD
 2.
 Questions:
 
@@ -57,3 +58,6 @@ What is an IP address?
 Is to devices connected to a network what postal address is to houses
 The unique identifier of a network interface
 Is a number that network devices use to connect to networks
+=======
+
+>>>>>>> 2a49be0d4573df0c41b2f439b0a22a42bb913047
